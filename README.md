@@ -2,12 +2,12 @@
 This repository is for building a restaurant reservation system for the module Global Distributed Software Development at Hochschule Fulda
 
 ## Team members
-* Utsav Shrestha | Team Lead, Frontend Lead | utsav.shrestha@informatik.hs-fulda.de | utsav170
-* Muhammad Bilal | Frontend Developer | muhammad.bilal@informatik.hs-fulda.de | muhammadbilal14111
-* Sanjay George | Backend Lead, DevOps | sanjay.varkey-george@informatik.hs-fulda.de | Sanjay-George
-* Omer Zogubi | Backend Developer, GitHub Admin | omer.zogubi@informatik.hs-fulda.de | omerzogubi
-* Parthiv Jani | Frontend Developer | parthiv-yogesh-kumar.jani@informatik.hs-fulda.de | j-parthiv
-* Kristijan Lazeski | Backend Developer, Database admin | kristijan.lazeski@informatik.hs-fulda.de | kikolazeski
+* Utsav Shrestha | Team Lead, Frontend Lead
+* Muhammad Bilal | Frontend Developer, Backend Developer
+* Sanjay George | Backend Lead, DevOps 
+* Omer Zogubi | Backend Developer, GitHub Admin 
+* Parthiv Jani | Frontend Developer 
+* Kristijan Lazeski | Backend Developer, Database admin
 
 
 ## Setup MySQL

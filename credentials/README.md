@@ -20,7 +20,7 @@
     - give permission to use the file
         - chmod 400 <keyname>.pem
     - run the below command
-        - ssh -i <private key path>.pem stha24@gdsd1restaurant.westeurope.cloudapp.azure.com
+        - ssh -i <private key path>.pem 
 
 # database connection 
 - download the mysql workbench
@@ -29,7 +29,7 @@
     - connection name: GDSD1Restaurant
     - connection method: Standard TCP/IP over SSH
     - ssh hostname: 20.229.177.80
-    - ssh username: stha24
+    - ssh username: 
     - ssh key file: select our <private key>.pem file
     - mysql hostname: 127.0.0.1
     - mysql server port: 3306

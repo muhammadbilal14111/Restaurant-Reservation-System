@@ -2,7 +2,7 @@
 This repository is for building a restaurant reservation system for the module Global Distributed Software Development at Hochschule Fulda
 
 ## Team members
-* Utsav Shrestha | Team Lead, Frontend Lead
+* Utsav Shrestha | Team Lead
 * Muhammad Bilal | Frontend Developer, Backend Developer
 * Sanjay George | Backend Lead, DevOps 
 * Omer Zogubi | Backend Developer, GitHub Admin 
